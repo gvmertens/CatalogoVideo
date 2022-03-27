@@ -50,5 +50,5 @@ public class CreateCategoryUserCaseTests {
         assertThat(actual.getName()).isEqualTo(category.getName());
 
     }
-    
+   
 }
